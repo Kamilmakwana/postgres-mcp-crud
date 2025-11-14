@@ -56,8 +56,8 @@ Optional helpers: `nvm` for version management, `psql` CLI for manual verificati
 ### 1. Clone & install dependencies
 
 ```bash
-git clone <your-fork-url> postgres-mcp
-cd postgres-mcp
+git clone <your-fork-url> postgres-mcp-crud
+cd postgres-mcp-crud
 npm install
 ```
 
